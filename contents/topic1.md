@@ -1,4 +1,5 @@
 <frontmatter>
+  title: First Topic
   header: header.md
   siteNav: site-nav.md
 </frontmatter>

@@ -1,5 +1,5 @@
 {
-  "baseUrl": "https://nbriannl.github.io/a-markbind-site",
+  "baseUrl": "/a-markbind-site",
   "titlePrefix": "",
   "ignore": [
     "_markbind/layouts/*",
