@@ -1,128 +1,36 @@
 <frontmatter>
   header: header.md
+  title: A subsite in MarkDown
   pageNav: 2
-  pageNavTitle: "Chapters of This Page"
   siteNav: site-nav.md
 </frontmatter>
 
 <br>
 
-<div class="jumbotron jumbotron-fluid bg-primary text-white">
+<!-- <div class="jumbotron jumbotron-fluid bg-primary text-white">
   <div class="container">
     <h1 class="display-4 no-index">Landing Page Title</h1>
     <p class="lead">A tagline can go here</p>
   </div>
-</div>
+</div> -->
 
-# Heading 1
-Some text some text some text some text some text some text some text. **Some text some text some text some text some text ==some text== some text**. Some text some text some text some text some text some text some text some text some text some text some text some text some text some text. Some text some text some text some text some text some text. Some text some text some text some text some text some text some text.
+# Hi I'm Brian 
+And I'm in my last year in National University of Singapore with a degree in Computer Science. I have a general interest to create, be it as a Software Engineer contributing to products, or making a [simple tool](https://github.com/nbriannl/Oboeru/) simply because I feel compelled to make my life easier. I also produce [music](https://soundcloud.com/br1ne) as a hobby. I am more inclined to, and more familar with, working on front end. I find it very satisfying to contribute changes most visble to users and impactful to their experience.
 
-**A block quote:**
+I interned in HOOQ for 2 separate summer internships. HOOQ is a video on demand streaming service with markets in Southeast Asia and India.
 
-> Some text some text some text some text some text some text some text. Some text some text some text some text some text some text some text. Some text some text some text some text some text some text some text some text some text some text some text some text some text some text. Some text some text some text some text some text some text. Some text some text some text some text some text some text some text.
+For my first internship, I worked on HOOQ's progressive web application (m.hooq.tv). Some of frameworks used to build it are React, Redux, Koa and Webpack.
 
-**A list:**
+In my second time at HOOQ, I worked on the TV Application for LG and Samsung TVs, built with BBC's TV Application Layer, a Javascript Library. With the library, one can build reusable UI compnents. And with a single codebase, one can release for multiple television platforms.
 
-* item A
-* item B
-  1. item b1
-  1. item b2
-  1. item b3
+In both internships I worked in a Scrum Team of 5-8 people, including developers and product owner. I have grown familiar to working in an Agile workflow, having contributed to tickets in 2-week long sprints.
 
-**A `code` example:**
-
-```html
-<foo>
-  <bar type="name">goo</bar>
-</foo>
-```
-
-## Sub Heading 1.1
-
-A <tooltip effect="scale" content=":exclamation: some **important explanation**" placement="top" trigger="hover">tooltip</tooltip>, a <trigger for="modal:modalinfo" trigger="click">modal</trigger>, a <a href="https://markbind.org/">link</a>, a <span class="badge badge-danger">badge</span>, another <span class="badge badge-warning">badge</span>.
-
-<modal header="Modal Title" id="modal:modalinfo">
-Some text some text some text some text some text some text some text. Some text some text some text some text some text some text some text. Some text some text some text some text some text some text some text some text some text some text some text some text some text some text. Some text some text some text some text some text some text. Some text some text some text some text some text some text some text.
-</modal>
-
-**A table:**
-
-Column 1 | Column 2 | Column 3 | :far-thumbs-up: / :far-thumbs-down:?
-:------: | :------: | :------: | ----
-value1   | x        | 5        | :far-thumbs-up:
-value2   | y        | 20       | :far-thumbs-down:
+I'm interested in Front End Engineering roles, or general Application Development roles. While the former may be a more familiar path, I would take any experience to build applications as a chance to develop myself.
 
 
-## Sub Heading 1.2
+# About this MarkBind Subsite
 
-**Media embeds:**
+[MarkBind](https://markbind.org/) is an open source project I am contributing to in my last semester as part of the module [CS3281/2](https://nus-cs3281.github.io/website/admin/callForApplications.html).
 
-@[youtube](http://www.youtube.com/watch?v=v40b3ExbM0c)
+MarkBind can generate <popover effect="scale" content="[This link to the docs about popover's was written in Markdown!](https://markbind.org/userGuide/usingComponents.html#trigger)" placement="top" trigger="hover">dynamic</popover> websites from Markdown text. In particular, **text-heavy** websites like the [NUS's Software Engineering Module](https://nus-cs2103-ay1920s2.github.io/website/) site.
 
-**Tabs:**
-
-<tabs>
-  <tab header="Tab X">
-    Some text some text some text some text some text some text some text. Some text some text some text some text some text some text some text. Some text some text some text some text some text some text some text some text some text some text some text some text some text some text. Some text some text some text some text some text some text. Some text some text some text some text some text some text some text.
-  </tab>
-  <tab header="Tab Y">
-    ...
-  </tab>
-  <tab-group header="Tab group">
-    <tab header="Tab Y.1">
-      ...
-    </tab>
-    <tab header="Tab Y.2">
-      ...
-    </tab>
-  </tab-group>
-</tabs>
-
-<br>
-
-# Heading 2
-
-**Some boxes:**
-
-<box>
-    default
-</box>
-<box type="info">
-    info
-</box>
-<box type="warning" dismissible>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</box>
-<box type="tip" heading="Tip box heading">
-    tip
-</box>
-<box type="success" heading="Tip box heading">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</box>
-<box type="important" dismissible heading="Tip box heading">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</box>
-
-<br>
-
-# Heading 3
-
-<panel header="Expandable panel" type="info">
-  Some text some text some text some text some text some text some text. Some text some text some text some text some text some text some text. Some text some text some text some text some text some text some text some text some text some text some text some text some text some text. Some text some text some text some text some text some text. Some text some text some text some text some text some text some text.
-</panel>
-<br>
-<panel header="Expanded panel" alt="Minimized panel" type="success" minimized>
-  ...
-</panel>
-<br>
-<panel header="Expanded panel" alt="Minimized panel" type="seamless">
-  ...
-</panel>
-<br>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-<panel header="___Minimal panel **->**___" type="minimal" alt="Minimal panel" popup-url="https://markbind.org/userGuide/usingComponents.html#panels" no-switch>
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</panel>
-
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

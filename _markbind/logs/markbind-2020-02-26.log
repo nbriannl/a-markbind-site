@@ -60,3 +60,1047 @@
 2020-02-26T10:23:57.724Z - info: Site data built
 2020-02-26T10:31:18.398Z - info: [6:29:49 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\navigation\site-nav.md
 2020-02-26T10:31:18.406Z - info: [6:31:18 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\navigation\site-nav.md
+2020-02-26T10:35:56.492Z - info: Website generation started at 6:35:56 PM
+2020-02-26T10:35:56.597Z - info: Building assets...
+2020-02-26T10:35:56.670Z - info: Assets built
+2020-02-26T10:35:56.677Z - info: Generating pages...
+2020-02-26T10:35:57.311Z - info: Pages built
+2020-02-26T10:35:57.526Z - info: Website generation complete! Total build time: 1.087s
+2020-02-26T10:35:57.607Z - info: Serving "C:\Users\neilb\Projects\a-markbind-site\_site" at http://127.0.0.1:8080
+2020-02-26T10:35:57.613Z - info: Press CTRL+C to stop ...
+2020-02-26T10:35:57.645Z - info: Site data built
+2020-02-26T10:38:19.753Z - info: [6:38:19 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:38:19.955Z - info: [6:38:19 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:38:20.757Z - info: Rebuilding affected source files
+2020-02-26T10:38:20.765Z - info: Rebuilding 1 pages
+2020-02-26T10:38:21.019Z - info: Pages rebuilt
+2020-02-26T10:38:21.027Z - info: Site data built
+2020-02-26T10:38:58.941Z - info: [6:38:58 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:38:59.187Z - info: [6:38:59 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:38:59.953Z - info: Rebuilding affected source files
+2020-02-26T10:38:59.955Z - info: Rebuilding 1 pages
+2020-02-26T10:39:00.151Z - info: Pages rebuilt
+2020-02-26T10:39:00.158Z - info: Site data built
+2020-02-26T10:39:03.925Z - info: [6:39:03 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:39:04.139Z - info: [6:39:04 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:39:04.934Z - info: Rebuilding affected source files
+2020-02-26T10:39:04.936Z - info: Rebuilding 1 pages
+2020-02-26T10:39:05.077Z - info: Pages rebuilt
+2020-02-26T10:39:05.084Z - info: Site data built
+2020-02-26T10:39:12.801Z - info: [6:39:12 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:39:12.989Z - info: [6:39:12 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:39:13.808Z - info: Rebuilding affected source files
+2020-02-26T10:39:13.815Z - info: Rebuilding 1 pages
+2020-02-26T10:39:13.993Z - info: Pages rebuilt
+2020-02-26T10:39:14.000Z - info: Site data built
+2020-02-26T10:40:11.868Z - info: [6:40:11 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:40:12.109Z - info: [6:40:12 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:40:12.873Z - info: Rebuilding affected source files
+2020-02-26T10:40:12.880Z - info: Rebuilding 1 pages
+2020-02-26T10:40:13.091Z - info: Pages rebuilt
+2020-02-26T10:40:13.098Z - info: Site data built
+2020-02-26T10:40:58.160Z - info: [6:40:58 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:40:58.394Z - info: [6:40:58 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:40:59.166Z - info: Rebuilding affected source files
+2020-02-26T10:40:59.174Z - info: Rebuilding 1 pages
+2020-02-26T10:40:59.524Z - info: Pages rebuilt
+2020-02-26T10:40:59.535Z - info: Site data built
+2020-02-26T10:41:15.774Z - info: [6:41:15 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:41:16.003Z - info: [6:41:16 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:41:16.778Z - info: Rebuilding affected source files
+2020-02-26T10:41:16.788Z - info: Rebuilding 1 pages
+2020-02-26T10:41:16.935Z - info: Pages rebuilt
+2020-02-26T10:41:16.942Z - info: Site data built
+2020-02-26T10:41:17.668Z - info: [6:41:17 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:41:17.857Z - info: [6:41:17 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:41:18.672Z - info: Rebuilding affected source files
+2020-02-26T10:41:18.679Z - info: Rebuilding 1 pages
+2020-02-26T10:41:18.958Z - info: Pages rebuilt
+2020-02-26T10:41:18.971Z - info: Site data built
+2020-02-26T10:45:51.619Z - info: [6:45:51 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:45:51.893Z - info: [6:45:51 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:45:52.628Z - info: Rebuilding affected source files
+2020-02-26T10:45:52.636Z - info: Rebuilding 1 pages
+2020-02-26T10:45:52.793Z - info: Pages rebuilt
+2020-02-26T10:45:52.800Z - info: Site data built
+2020-02-26T10:48:02.835Z - info: [6:48:02 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T10:48:03.097Z - info: [6:48:03 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T10:48:03.306Z - info: [6:48:03 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T10:48:03.844Z - info: Rebuilding affected source files
+2020-02-26T10:48:03.852Z - info: Rebuilding 5 pages
+2020-02-26T10:48:04.593Z - info: Pages rebuilt
+2020-02-26T10:48:04.600Z - info: Site data built
+2020-02-26T10:48:21.495Z - info: [6:48:21 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T10:48:21.820Z - info: [6:48:21 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T10:48:22.498Z - info: Rebuilding affected source files
+2020-02-26T10:48:22.507Z - info: Rebuilding 5 pages
+2020-02-26T10:48:22.890Z - info: Pages rebuilt
+2020-02-26T10:48:22.897Z - info: Site data built
+2020-02-26T10:48:39.222Z - info: [6:48:39 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T10:48:39.426Z - info: [6:48:39 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T10:48:40.227Z - info: Rebuilding affected source files
+2020-02-26T10:48:40.236Z - info: Rebuilding 5 pages
+2020-02-26T10:48:40.536Z - info: Pages rebuilt
+2020-02-26T10:48:40.544Z - info: Site data built
+2020-02-26T10:50:29.420Z - info: [6:50:29 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:50:29.635Z - info: [6:50:29 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:50:30.424Z - info: Rebuilding affected source files
+2020-02-26T10:50:30.433Z - info: Rebuilding 1 pages
+2020-02-26T10:50:30.581Z - info: Pages rebuilt
+2020-02-26T10:50:30.589Z - info: Site data built
+2020-02-26T10:50:44.011Z - info: [6:50:44 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:50:44.213Z - info: [6:50:44 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:50:45.017Z - info: Rebuilding affected source files
+2020-02-26T10:50:45.025Z - info: Rebuilding 1 pages
+2020-02-26T10:50:45.184Z - info: Pages rebuilt
+2020-02-26T10:50:45.191Z - info: Site data built
+2020-02-26T10:50:46.839Z - info: [6:50:46 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:50:47.021Z - info: [6:50:47 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:50:47.845Z - info: Rebuilding affected source files
+2020-02-26T10:50:47.852Z - info: Rebuilding 1 pages
+2020-02-26T10:50:47.995Z - info: Pages rebuilt
+2020-02-26T10:50:48.002Z - info: Site data built
+2020-02-26T10:54:49.766Z - info: [6:54:49 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:54:49.957Z - info: [6:54:49 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:54:50.771Z - info: Rebuilding affected source files
+2020-02-26T10:54:50.778Z - info: Rebuilding 1 pages
+2020-02-26T10:54:50.906Z - info: Pages rebuilt
+2020-02-26T10:54:50.919Z - info: Site data built
+2020-02-26T10:55:01.765Z - info: [6:55:01 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:55:01.939Z - info: [6:55:01 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:55:02.770Z - info: Rebuilding affected source files
+2020-02-26T10:55:02.772Z - info: Rebuilding 1 pages
+2020-02-26T10:55:02.952Z - info: Pages rebuilt
+2020-02-26T10:55:02.960Z - info: Site data built
+2020-02-26T10:55:14.277Z - info: [6:55:14 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:55:14.497Z - info: [6:55:14 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:55:15.283Z - info: Rebuilding affected source files
+2020-02-26T10:55:15.291Z - info: Rebuilding 1 pages
+2020-02-26T10:55:15.437Z - info: Pages rebuilt
+2020-02-26T10:55:15.445Z - info: Site data built
+2020-02-26T10:55:20.585Z - info: [6:55:20 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:55:20.784Z - info: [6:55:20 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:55:21.592Z - info: Rebuilding affected source files
+2020-02-26T10:55:21.599Z - info: Rebuilding 1 pages
+2020-02-26T10:55:21.737Z - info: Pages rebuilt
+2020-02-26T10:55:21.745Z - info: Site data built
+2020-02-26T10:55:48.895Z - info: [6:55:48 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:55:49.063Z - info: [6:55:49 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:55:49.899Z - info: Rebuilding affected source files
+2020-02-26T10:55:49.909Z - info: Rebuilding 1 pages
+2020-02-26T10:55:50.121Z - info: Pages rebuilt
+2020-02-26T10:55:50.128Z - info: Site data built
+2020-02-26T10:56:54.552Z - info: [6:56:54 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:56:54.809Z - info: [6:56:54 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:56:55.557Z - info: Rebuilding affected source files
+2020-02-26T10:56:55.565Z - info: Rebuilding 1 pages
+2020-02-26T10:56:55.708Z - info: Pages rebuilt
+2020-02-26T10:56:55.715Z - info: Site data built
+2020-02-26T10:57:23.189Z - info: [6:57:23 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:57:24.192Z - info: Rebuilding affected source files
+2020-02-26T10:57:24.200Z - info: Rebuilding 1 pages
+2020-02-26T10:57:24.395Z - info: Pages rebuilt
+2020-02-26T10:57:24.403Z - info: Site data built
+2020-02-26T10:57:28.751Z - info: [6:57:28 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:57:28.916Z - info: [6:57:28 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:57:29.757Z - info: Rebuilding affected source files
+2020-02-26T10:57:29.764Z - info: Rebuilding 1 pages
+2020-02-26T10:57:29.948Z - info: Pages rebuilt
+2020-02-26T10:57:29.957Z - info: Site data built
+2020-02-26T10:58:10.994Z - info: [6:58:10 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:58:11.235Z - info: [6:58:11 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:58:11.999Z - info: Rebuilding affected source files
+2020-02-26T10:58:12.007Z - info: Rebuilding 1 pages
+2020-02-26T10:58:12.180Z - info: Pages rebuilt
+2020-02-26T10:58:12.187Z - info: Site data built
+2020-02-26T10:58:49.864Z - info: [6:58:49 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:58:50.180Z - info: [6:58:50 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:58:50.273Z - info: [6:58:50 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T10:58:50.868Z - info: Rebuilding affected source files
+2020-02-26T10:58:50.875Z - info: Rebuilding 1 pages
+2020-02-26T10:58:51.072Z - info: Pages rebuilt
+2020-02-26T10:58:51.080Z - info: Site data built
+2020-02-26T11:01:48.374Z - info: [7:01:48 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:01:48.612Z - info: [7:01:48 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:01:49.378Z - info: Rebuilding affected source files
+2020-02-26T11:01:49.388Z - info: Rebuilding 1 pages
+2020-02-26T11:01:49.634Z - info: Pages rebuilt
+2020-02-26T11:01:49.642Z - info: Site data built
+2020-02-26T11:04:35.719Z - info: [7:04:35 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:04:35.993Z - info: [7:04:35 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:04:36.735Z - info: Rebuilding affected source files
+2020-02-26T11:04:36.738Z - info: Rebuilding 1 pages
+2020-02-26T11:04:36.940Z - info: Pages rebuilt
+2020-02-26T11:04:36.952Z - info: Site data built
+2020-02-26T11:04:46.765Z - info: [7:04:46 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:04:46.989Z - info: [7:04:46 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:04:47.770Z - info: Rebuilding affected source files
+2020-02-26T11:04:47.779Z - info: Rebuilding 1 pages
+2020-02-26T11:04:47.943Z - info: Pages rebuilt
+2020-02-26T11:04:47.950Z - info: Site data built
+2020-02-26T11:05:21.396Z - info: [7:05:21 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:05:21.600Z - info: [7:05:21 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:05:22.417Z - info: Rebuilding affected source files
+2020-02-26T11:05:22.420Z - info: Rebuilding 1 pages
+2020-02-26T11:05:22.719Z - info: Pages rebuilt
+2020-02-26T11:05:22.727Z - info: Site data built
+2020-02-26T11:05:44.932Z - info: [7:05:44 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:05:45.369Z - info: [7:05:45 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:05:45.936Z - info: Rebuilding affected source files
+2020-02-26T11:05:45.938Z - info: Rebuilding 1 pages
+2020-02-26T11:05:46.190Z - info: Pages rebuilt
+2020-02-26T11:05:46.197Z - info: Site data built
+2020-02-26T11:06:07.906Z - info: [7:06:07 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:06:08.130Z - info: [7:06:08 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:06:08.917Z - info: Rebuilding affected source files
+2020-02-26T11:06:08.919Z - info: Rebuilding 1 pages
+2020-02-26T11:06:09.076Z - info: Pages rebuilt
+2020-02-26T11:06:09.083Z - info: Site data built
+2020-02-26T11:06:27.164Z - info: [7:06:27 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:06:27.342Z - info: [7:06:27 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:06:28.169Z - info: Rebuilding affected source files
+2020-02-26T11:06:28.177Z - info: Rebuilding 1 pages
+2020-02-26T11:06:28.352Z - info: Pages rebuilt
+2020-02-26T11:06:28.360Z - info: Site data built
+2020-02-26T11:06:30.424Z - info: [7:06:30 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:06:30.719Z - info: [7:06:30 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:06:31.435Z - info: Rebuilding affected source files
+2020-02-26T11:06:31.443Z - info: Rebuilding 1 pages
+2020-02-26T11:06:31.581Z - info: Pages rebuilt
+2020-02-26T11:06:31.589Z - info: Site data built
+2020-02-26T11:06:35.425Z - info: [7:06:35 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:06:35.618Z - info: [7:06:35 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:06:36.429Z - info: Rebuilding affected source files
+2020-02-26T11:06:36.437Z - info: Rebuilding 1 pages
+2020-02-26T11:06:36.696Z - info: Pages rebuilt
+2020-02-26T11:06:36.701Z - info: Site data built
+2020-02-26T11:06:37.332Z - info: [7:06:37 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:06:38.337Z - info: Rebuilding affected source files
+2020-02-26T11:06:38.347Z - info: Rebuilding 1 pages
+2020-02-26T11:06:38.508Z - info: Pages rebuilt
+2020-02-26T11:06:38.518Z - info: Site data built
+2020-02-26T11:07:26.582Z - info: [7:07:26 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic1.md
+2020-02-26T11:07:26.786Z - info: [7:07:26 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic1.md
+2020-02-26T11:07:26.949Z - info: [7:07:26 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic1.md
+2020-02-26T11:07:27.587Z - info: Rebuilding affected source files
+2020-02-26T11:07:27.594Z - info: Rebuilding 1 pages
+2020-02-26T11:07:27.707Z - info: Pages rebuilt
+2020-02-26T11:07:27.717Z - info: Site data built
+2020-02-26T11:07:28.994Z - info: [7:07:28 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic1.md
+2020-02-26T11:07:29.076Z - info: [7:07:29 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic1.md
+2020-02-26T11:07:30.000Z - info: Rebuilding affected source files
+2020-02-26T11:07:30.007Z - info: Rebuilding 1 pages
+2020-02-26T11:07:30.220Z - info: Pages rebuilt
+2020-02-26T11:07:30.231Z - info: Site data built
+2020-02-26T11:08:01.761Z - info: [7:08:01 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic1.md
+2020-02-26T11:08:01.949Z - info: [7:08:01 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic1.md
+2020-02-26T11:08:02.105Z - info: [7:08:02 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic1.md
+2020-02-26T11:08:02.767Z - info: Rebuilding affected source files
+2020-02-26T11:08:02.785Z - info: Rebuilding 1 pages
+2020-02-26T11:08:02.909Z - info: Pages rebuilt
+2020-02-26T11:08:02.916Z - info: Site data built
+2020-02-26T11:08:06.437Z - info: [7:08:06 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic1.md
+2020-02-26T11:08:06.628Z - info: [7:08:06 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic1.md
+2020-02-26T11:08:07.447Z - info: Rebuilding affected source files
+2020-02-26T11:08:07.451Z - info: Rebuilding 1 pages
+2020-02-26T11:08:07.563Z - info: Pages rebuilt
+2020-02-26T11:08:07.572Z - info: Site data built
+2020-02-26T11:08:09.108Z - info: [7:08:09 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:08:09.295Z - info: [7:08:09 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:08:09.470Z - info: [7:08:09 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:08:10.112Z - info: Rebuilding affected source files
+2020-02-26T11:08:10.120Z - info: Rebuilding 1 pages
+2020-02-26T11:08:10.215Z - info: Pages rebuilt
+2020-02-26T11:08:10.222Z - info: Site data built
+2020-02-26T11:08:26.010Z - info: [7:08:26 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:08:26.267Z - info: [7:08:26 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:08:26.397Z - info: [7:08:26 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:08:27.016Z - info: Rebuilding affected source files
+2020-02-26T11:08:27.026Z - info: Rebuilding 1 pages
+2020-02-26T11:08:27.120Z - info: Pages rebuilt
+2020-02-26T11:08:27.128Z - info: Site data built
+2020-02-26T11:08:58.512Z - info: [7:08:58 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic1.md
+2020-02-26T11:08:58.715Z - info: [7:08:58 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic1.md
+2020-02-26T11:08:58.879Z - info: [7:08:58 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic1.md
+2020-02-26T11:08:59.515Z - info: Rebuilding affected source files
+2020-02-26T11:08:59.523Z - info: Rebuilding 1 pages
+2020-02-26T11:08:59.631Z - info: Pages rebuilt
+2020-02-26T11:08:59.638Z - info: Site data built
+2020-02-26T11:09:01.507Z - info: [7:09:01 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic1.md
+2020-02-26T11:09:01.680Z - info: [7:09:01 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic1.md
+2020-02-26T11:09:02.512Z - info: Rebuilding affected source files
+2020-02-26T11:09:02.521Z - info: Rebuilding 1 pages
+2020-02-26T11:09:02.648Z - info: Pages rebuilt
+2020-02-26T11:09:02.655Z - info: Site data built
+2020-02-26T11:09:06.752Z - info: [7:09:06 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic1.md
+2020-02-26T11:09:07.015Z - info: [7:09:07 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic1.md
+2020-02-26T11:09:07.763Z - info: Rebuilding affected source files
+2020-02-26T11:09:07.764Z - info: Rebuilding 1 pages
+2020-02-26T11:09:07.959Z - info: Pages rebuilt
+2020-02-26T11:09:07.966Z - info: Site data built
+2020-02-26T11:09:13.649Z - info: [7:09:13 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic1.md
+2020-02-26T11:09:13.843Z - info: [7:09:13 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic1.md
+2020-02-26T11:09:13.994Z - info: [7:09:13 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic1.md
+2020-02-26T11:09:14.654Z - info: Rebuilding affected source files
+2020-02-26T11:09:14.661Z - info: Rebuilding 1 pages
+2020-02-26T11:09:14.827Z - info: Pages rebuilt
+2020-02-26T11:09:14.835Z - info: Site data built
+2020-02-26T11:09:55.462Z - info: [7:09:55 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic1.md
+2020-02-26T11:09:55.658Z - info: [7:09:55 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic1.md
+2020-02-26T11:09:55.825Z - info: [7:09:55 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic1.md
+2020-02-26T11:09:56.465Z - info: Rebuilding affected source files
+2020-02-26T11:09:56.473Z - info: Rebuilding 1 pages
+2020-02-26T11:09:56.595Z - info: Pages rebuilt
+2020-02-26T11:09:56.603Z - info: Site data built
+2020-02-26T11:09:57.950Z - info: [7:09:57 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic1.md
+2020-02-26T11:09:58.207Z - info: [7:09:58 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic1.md
+2020-02-26T11:09:58.961Z - info: Rebuilding affected source files
+2020-02-26T11:09:58.962Z - info: Rebuilding 1 pages
+2020-02-26T11:09:59.102Z - info: Pages rebuilt
+2020-02-26T11:09:59.109Z - info: Site data built
+2020-02-26T11:10:01.061Z - info: [7:10:01 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic1.md
+2020-02-26T11:10:01.264Z - info: [7:10:01 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic1.md
+2020-02-26T11:10:02.066Z - info: Rebuilding affected source files
+2020-02-26T11:10:02.073Z - info: Rebuilding 1 pages
+2020-02-26T11:10:02.161Z - info: Pages rebuilt
+2020-02-26T11:10:02.175Z - info: Site data built
+2020-02-26T11:10:03.031Z - info: [7:10:03 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic1.md
+2020-02-26T11:10:03.256Z - info: [7:10:03 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic1.md
+2020-02-26T11:10:04.050Z - info: Rebuilding affected source files
+2020-02-26T11:10:04.054Z - info: Rebuilding 1 pages
+2020-02-26T11:10:04.361Z - info: Pages rebuilt
+2020-02-26T11:10:04.368Z - info: Site data built
+2020-02-26T11:10:09.301Z - info: [7:10:09 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic1.md
+2020-02-26T11:10:09.495Z - info: [7:10:09 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic1.md
+2020-02-26T11:10:10.306Z - info: Rebuilding affected source files
+2020-02-26T11:10:10.314Z - info: Rebuilding 1 pages
+2020-02-26T11:10:10.411Z - info: Pages rebuilt
+2020-02-26T11:10:10.420Z - info: Site data built
+2020-02-26T11:11:03.100Z - info: [7:11:03 PM] Reload for file add: C:\Users\neilb\Projects\a-markbind-site\contents\markbind-overview.md
+2020-02-26T11:11:03.144Z - info: [7:11:03 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\markbind-overview.md
+2020-02-26T11:11:03.194Z - info: [7:11:03 PM] Reload for file deletion: C:\Users\neilb\Projects\a-markbind-site\contents\topic1.md
+2020-02-26T11:11:04.110Z - warn: Rebuilding all source files
+2020-02-26T11:11:04.146Z - info: Rebuilding affected source files
+2020-02-26T11:11:04.147Z - info: Rebuilding 0 pages
+2020-02-26T11:11:04.163Z - info: Pages rebuilt
+2020-02-26T11:11:04.178Z - info: Site data built
+2020-02-26T11:11:05.143Z - info: Assets removed
+2020-02-26T11:11:05.153Z - info: Generating pages...
+2020-02-26T11:11:05.962Z - info: Pages built
+2020-02-26T11:11:25.867Z - info: [7:11:25 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:11:26.104Z - info: [7:11:26 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:11:26.265Z - info: [7:11:26 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:11:26.871Z - info: Rebuilding affected source files
+2020-02-26T11:11:26.879Z - info: Rebuilding 5 pages
+2020-02-26T11:11:27.174Z - info: Pages rebuilt
+2020-02-26T11:11:27.181Z - info: Site data built
+2020-02-26T11:11:34.901Z - info: [7:11:34 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:11:35.114Z - info: [7:11:35 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:11:35.271Z - info: [7:11:35 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:11:35.909Z - info: Rebuilding affected source files
+2020-02-26T11:11:35.922Z - info: Rebuilding 5 pages
+2020-02-26T11:11:36.372Z - info: Pages rebuilt
+2020-02-26T11:11:36.380Z - info: Site data built
+2020-02-26T11:11:52.166Z - info: [7:11:52 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:11:52.344Z - info: [7:11:52 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:11:53.171Z - info: Rebuilding affected source files
+2020-02-26T11:11:53.179Z - info: Rebuilding 5 pages
+2020-02-26T11:11:53.607Z - info: Pages rebuilt
+2020-02-26T11:11:53.627Z - info: Site data built
+2020-02-26T11:12:21.712Z - info: [7:12:21 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\navigation\site-nav.md
+2020-02-26T11:12:21.825Z - info: [7:12:21 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\navigation\site-nav.md
+2020-02-26T11:12:22.717Z - info: Rebuilding affected source files
+2020-02-26T11:12:22.724Z - info: Rebuilding 5 pages
+2020-02-26T11:12:23.058Z - info: Pages rebuilt
+2020-02-26T11:12:23.065Z - info: Site data built
+2020-02-26T11:12:41.340Z - info: [7:12:41 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:12:41.546Z - info: [7:12:41 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:12:42.346Z - info: Rebuilding affected source files
+2020-02-26T11:12:42.355Z - info: Rebuilding 5 pages
+2020-02-26T11:12:42.687Z - info: Pages rebuilt
+2020-02-26T11:12:42.694Z - info: Site data built
+2020-02-26T11:13:52.068Z - info: Website generation started at 7:13:52 PM
+2020-02-26T11:13:52.181Z - info: Building assets...
+2020-02-26T11:13:52.298Z - info: Assets built
+2020-02-26T11:13:52.305Z - info: Generating pages...
+2020-02-26T11:13:52.961Z - info: Pages built
+2020-02-26T11:13:53.126Z - info: Website generation complete! Total build time: 1.106s
+2020-02-26T11:13:53.223Z - info: Serving "C:\Users\neilb\Projects\a-markbind-site\_site" at http://127.0.0.1:8080
+2020-02-26T11:13:53.224Z - info: Press CTRL+C to stop ...
+2020-02-26T11:13:53.240Z - info: Site data built
+2020-02-26T11:14:02.581Z - info: Website generation started at 7:14:02 PM
+2020-02-26T11:14:02.678Z - info: Building assets...
+2020-02-26T11:14:02.754Z - info: Assets built
+2020-02-26T11:14:02.761Z - info: Generating pages...
+2020-02-26T11:14:03.339Z - info: Pages built
+2020-02-26T11:14:03.492Z - info: Website generation complete! Total build time: 0.948s
+2020-02-26T11:14:03.499Z - info: Build success!
+2020-02-26T11:14:03.502Z - info: Site data built
+2020-02-26T11:15:28.551Z - info: Website generation started at 7:15:28 PM
+2020-02-26T11:15:28.641Z - info: Building assets...
+2020-02-26T11:15:28.703Z - info: Assets built
+2020-02-26T11:15:28.711Z - info: Generating pages...
+2020-02-26T11:15:29.351Z - info: Pages built
+2020-02-26T11:15:29.485Z - info: Website generation complete! Total build time: 0.968s
+2020-02-26T11:15:29.492Z - info: Build success!
+2020-02-26T11:15:29.496Z - info: Site data built
+2020-02-26T11:15:32.737Z - info: Website generation started at 7:15:32 PM
+2020-02-26T11:15:32.820Z - info: Building assets...
+2020-02-26T11:15:32.882Z - info: Assets built
+2020-02-26T11:15:32.890Z - info: Generating pages...
+2020-02-26T11:15:33.570Z - info: Pages built
+2020-02-26T11:15:33.704Z - info: Website generation complete! Total build time: 1.002s
+2020-02-26T11:15:33.815Z - info: Serving "C:\Users\neilb\Projects\a-markbind-site\_site" at http://127.0.0.1:8080
+2020-02-26T11:15:33.822Z - info: Press CTRL+C to stop ...
+2020-02-26T11:15:33.841Z - info: Site data built
+2020-02-26T11:16:08.353Z - info: [7:16:08 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\new page.md
+2020-02-26T11:16:08.519Z - info: [7:16:08 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\new page.md
+2020-02-26T11:16:08.875Z - info: [7:16:08 PM] Reload for file add: C:\Users\neilb\Projects\a-markbind-site\contents\newpage.md
+2020-02-26T11:16:08.973Z - info: [7:16:08 PM] Reload for file deletion: C:\Users\neilb\Projects\a-markbind-site\contents\new page.md
+2020-02-26T11:16:09.358Z - info: Rebuilding affected source files
+2020-02-26T11:16:09.365Z - info: Rebuilding 1 pages
+2020-02-26T11:16:09.369Z - error:  Error: ENOENT: no such file or directory, open 'C:\Users\neilb\Projects\a-markbind-site\contents\new page.md'
+2020-02-26T11:16:09.384Z - warn:  Error: Error while generating C:\Users\neilb\Projects\a-markbind-site\contents\new page.md
+    at C:\Users\neilb\Projects\markbind\src\Site.js:825:35
+    at tryCatcher (C:\Users\neilb\Projects\markbind\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\neilb\Projects\markbind\node_modules\bluebird\js\release\promise.js:547:31)
+    at Promise._settlePromise (C:\Users\neilb\Projects\markbind\node_modules\bluebird\js\release\promise.js:604:18)
+    at Promise._settlePromise0 (C:\Users\neilb\Projects\markbind\node_modules\bluebird\js\release\promise.js:649:10)
+    at Promise._settlePromises (C:\Users\neilb\Projects\markbind\node_modules\bluebird\js\release\promise.js:725:18)
+    at _drainQueueStep (C:\Users\neilb\Projects\markbind\node_modules\bluebird\js\release\async.js:93:12)
+    at _drainQueue (C:\Users\neilb\Projects\markbind\node_modules\bluebird\js\release\async.js:86:9)
+    at Async._drainQueues (C:\Users\neilb\Projects\markbind\node_modules\bluebird\js\release\async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (C:\Users\neilb\Projects\markbind\node_modules\bluebird\js\release\async.js:15:14)
+    at processImmediate (internal/timers.js:439:21)
+2020-02-26T11:16:09.441Z - error: Error while generating C:\Users\neilb\Projects\a-markbind-site\contents\new page.md
+2020-02-26T11:16:09.448Z - error: Error while generating C:\Users\neilb\Projects\a-markbind-site\contents\new page.md
+2020-02-26T11:16:09.652Z - info: [7:16:09 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\newpage.md
+2020-02-26T11:16:09.660Z - info: Rebuilding affected source files
+2020-02-26T11:16:09.662Z - info: Rebuilding 0 pages
+2020-02-26T11:16:09.670Z - info: Pages rebuilt
+2020-02-26T11:16:09.673Z - error: Error while generating C:\Users\neilb\Projects\a-markbind-site\contents\new page.md
+2020-02-26T11:16:09.680Z - info: Site data built
+2020-02-26T11:16:09.874Z - info: [7:16:09 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\newpage.md
+2020-02-26T11:16:09.881Z - info: Rebuilding affected source files
+2020-02-26T11:16:09.884Z - info: Rebuilding 0 pages
+2020-02-26T11:16:09.886Z - info: Pages rebuilt
+2020-02-26T11:16:09.894Z - warn: Rebuilding all source files
+2020-02-26T11:16:09.909Z - error: Error while generating C:\Users\neilb\Projects\a-markbind-site\contents\new page.md
+2020-02-26T11:16:09.919Z - info: Site data built
+2020-02-26T11:16:10.066Z - info: [7:16:10 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\newpage.md
+2020-02-26T11:16:10.073Z - info: Rebuilding affected source files
+2020-02-26T11:16:10.074Z - info: Rebuilding 0 pages
+2020-02-26T11:16:10.077Z - info: Pages rebuilt
+2020-02-26T11:16:10.084Z - error: Error while generating C:\Users\neilb\Projects\a-markbind-site\contents\new page.md
+2020-02-26T11:16:10.088Z - info: Site data built
+2020-02-26T11:16:10.911Z - info: Assets removed
+2020-02-26T11:16:10.919Z - info: Generating pages...
+2020-02-26T11:16:11.522Z - info: Pages built
+2020-02-26T11:16:20.930Z - info: Website generation started at 7:16:20 PM
+2020-02-26T11:16:21.021Z - info: Building assets...
+2020-02-26T11:16:21.085Z - info: Assets built
+2020-02-26T11:16:21.092Z - info: Generating pages...
+2020-02-26T11:16:21.749Z - info: Pages built
+2020-02-26T11:16:22.087Z - info: Website generation complete! Total build time: 1.17s
+2020-02-26T11:16:22.189Z - info: Serving "C:\Users\neilb\Projects\a-markbind-site\_site" at http://127.0.0.1:8080
+2020-02-26T11:16:22.195Z - info: Press CTRL+C to stop ...
+2020-02-26T11:16:22.226Z - info: Site data built
+2020-02-26T11:16:38.614Z - info: [7:16:38 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\newpage.md
+2020-02-26T11:16:38.722Z - info: [7:16:38 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\newpage.md
+2020-02-26T11:16:38.890Z - info: [7:16:38 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\newpage.md
+2020-02-26T11:16:39.618Z - info: Rebuilding affected source files
+2020-02-26T11:16:39.625Z - info: Rebuilding 1 pages
+2020-02-26T11:16:39.734Z - info: Pages rebuilt
+2020-02-26T11:16:39.742Z - info: Site data built
+2020-02-26T11:19:13.937Z - info: [7:19:13 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\navigation\site-nav.md
+2020-02-26T11:19:14.158Z - info: [7:19:14 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\navigation\site-nav.md
+2020-02-26T11:19:14.302Z - info: [7:19:14 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\navigation\site-nav.md
+2020-02-26T11:19:14.938Z - info: Rebuilding affected source files
+2020-02-26T11:19:14.942Z - info: Rebuilding 6 pages
+2020-02-26T11:19:15.488Z - info: Pages rebuilt
+2020-02-26T11:19:15.498Z - info: Site data built
+2020-02-26T11:19:20.904Z - info: [7:19:20 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\navigation\site-nav.md
+2020-02-26T11:19:21.094Z - info: [7:19:21 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\navigation\site-nav.md
+2020-02-26T11:19:21.906Z - info: Rebuilding affected source files
+2020-02-26T11:19:21.911Z - info: Rebuilding 6 pages
+2020-02-26T11:19:22.253Z - info: Pages rebuilt
+2020-02-26T11:19:22.274Z - info: Site data built
+2020-02-26T11:19:30.914Z - info: [7:19:30 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\navigation\site-nav.md
+2020-02-26T11:19:31.915Z - info: Rebuilding affected source files
+2020-02-26T11:19:31.918Z - info: Rebuilding 6 pages
+2020-02-26T11:19:32.253Z - info: Pages rebuilt
+2020-02-26T11:19:32.269Z - info: Site data built
+2020-02-26T11:20:19.858Z - info: [7:20:19 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:20:20.105Z - info: [7:20:20 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:20:20.268Z - info: [7:20:20 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:20:20.859Z - info: Rebuilding affected source files
+2020-02-26T11:20:20.861Z - info: Rebuilding 1 pages
+2020-02-26T11:20:20.951Z - info: Pages rebuilt
+2020-02-26T11:20:20.956Z - info: Site data built
+2020-02-26T11:21:12.113Z - info: [7:21:12 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:21:12.317Z - info: [7:21:12 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:21:13.116Z - info: Rebuilding affected source files
+2020-02-26T11:21:13.117Z - info: Rebuilding 1 pages
+2020-02-26T11:21:13.186Z - info: Pages rebuilt
+2020-02-26T11:21:13.190Z - info: Site data built
+2020-02-26T11:21:16.528Z - info: [7:21:16 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:21:16.720Z - info: [7:21:16 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:21:17.532Z - info: Rebuilding affected source files
+2020-02-26T11:21:17.534Z - info: Rebuilding 1 pages
+2020-02-26T11:21:17.606Z - info: Pages rebuilt
+2020-02-26T11:21:17.610Z - info: Site data built
+2020-02-26T11:21:37.823Z - info: [7:21:37 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:21:38.048Z - info: [7:21:38 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:21:38.831Z - info: Rebuilding affected source files
+2020-02-26T11:21:38.832Z - info: Rebuilding 1 pages
+2020-02-26T11:21:38.898Z - info: Pages rebuilt
+2020-02-26T11:21:38.902Z - info: Site data built
+2020-02-26T11:22:09.891Z - info: [7:22:09 PM] Reload for file deletion: C:\Users\neilb\Projects\a-markbind-site\contents\newpage.md
+2020-02-26T11:22:10.894Z - warn: Rebuilding all source files
+2020-02-26T11:22:11.909Z - info: Assets removed
+2020-02-26T11:22:11.910Z - info: Generating pages...
+2020-02-26T11:22:12.562Z - info: Pages built
+2020-02-26T11:22:13.287Z - info: [7:22:13 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic2.md
+2020-02-26T11:22:13.499Z - info: [7:22:13 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\topic2.md
+2020-02-26T11:22:14.293Z - info: Rebuilding affected source files
+2020-02-26T11:22:14.295Z - info: Rebuilding 1 pages
+2020-02-26T11:22:14.475Z - info: Pages rebuilt
+2020-02-26T11:22:14.480Z - info: Site data built
+2020-02-26T11:23:04.066Z - info: [7:23:04 PM] Reload for file add: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:23:05.067Z - warn: Rebuilding all source files
+2020-02-26T11:23:06.079Z - info: Assets removed
+2020-02-26T11:23:06.079Z - info: Generating pages...
+2020-02-26T11:23:06.548Z - info: Pages built
+2020-02-26T11:23:13.656Z - info: [7:23:13 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:23:13.991Z - info: [7:23:13 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:23:14.077Z - info: [7:23:14 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:23:14.659Z - info: Rebuilding affected source files
+2020-02-26T11:23:14.660Z - info: Rebuilding 1 pages
+2020-02-26T11:23:14.701Z - info: Pages rebuilt
+2020-02-26T11:23:14.705Z - info: Site data built
+2020-02-26T11:23:15.209Z - info: [7:23:15 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:23:15.460Z - info: [7:23:15 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:23:16.212Z - info: Rebuilding affected source files
+2020-02-26T11:23:16.213Z - info: Rebuilding 1 pages
+2020-02-26T11:23:16.251Z - info: Pages rebuilt
+2020-02-26T11:23:16.255Z - info: Site data built
+2020-02-26T11:23:16.401Z - info: [7:23:16 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:23:16.555Z - info: [7:23:16 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:23:17.406Z - info: Rebuilding affected source files
+2020-02-26T11:23:17.408Z - info: Rebuilding 1 pages
+2020-02-26T11:23:17.451Z - info: Pages rebuilt
+2020-02-26T11:23:17.455Z - info: Site data built
+2020-02-26T11:23:17.957Z - info: [7:23:17 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:23:18.165Z - info: [7:23:18 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:23:18.960Z - info: Rebuilding affected source files
+2020-02-26T11:23:18.961Z - info: Rebuilding 1 pages
+2020-02-26T11:23:19.006Z - info: Pages rebuilt
+2020-02-26T11:23:19.010Z - info: Site data built
+2020-02-26T11:23:22.611Z - info: [7:23:22 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:23:22.787Z - info: [7:23:22 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:23:23.613Z - info: Rebuilding affected source files
+2020-02-26T11:23:23.614Z - info: Rebuilding 1 pages
+2020-02-26T11:23:23.678Z - info: Pages rebuilt
+2020-02-26T11:23:23.683Z - info: Site data built
+2020-02-26T11:23:24.108Z - info: [7:23:24 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:23:24.388Z - info: [7:23:24 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:23:25.110Z - info: Rebuilding affected source files
+2020-02-26T11:23:25.112Z - info: Rebuilding 1 pages
+2020-02-26T11:23:25.174Z - info: Pages rebuilt
+2020-02-26T11:23:25.179Z - info: Site data built
+2020-02-26T11:23:33.011Z - info: [7:23:33 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:23:33.234Z - info: [7:23:33 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:23:33.468Z - info: [7:23:33 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:23:34.013Z - info: Rebuilding affected source files
+2020-02-26T11:23:34.014Z - info: Rebuilding 1 pages
+2020-02-26T11:23:34.078Z - info: Pages rebuilt
+2020-02-26T11:23:34.083Z - info: Site data built
+2020-02-26T11:23:49.898Z - info: [7:23:49 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:23:50.158Z - info: [7:23:50 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:23:50.900Z - info: Rebuilding affected source files
+2020-02-26T11:23:50.901Z - info: Rebuilding 1 pages
+2020-02-26T11:23:50.982Z - info: Pages rebuilt
+2020-02-26T11:23:50.991Z - info: Site data built
+2020-02-26T11:23:53.919Z - info: [7:23:53 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:23:54.122Z - info: [7:23:54 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:23:54.310Z - info: [7:23:54 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:23:54.922Z - info: Rebuilding affected source files
+2020-02-26T11:23:54.924Z - info: Rebuilding 1 pages
+2020-02-26T11:23:54.991Z - info: Pages rebuilt
+2020-02-26T11:23:54.995Z - info: Site data built
+2020-02-26T11:23:58.483Z - info: [7:23:58 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\markbind-overview.md
+2020-02-26T11:23:58.702Z - info: [7:23:58 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\markbind-overview.md
+2020-02-26T11:23:59.487Z - info: Rebuilding affected source files
+2020-02-26T11:23:59.488Z - info: Rebuilding 1 pages
+2020-02-26T11:23:59.701Z - info: Pages rebuilt
+2020-02-26T11:23:59.708Z - info: Site data built
+2020-02-26T11:24:06.129Z - info: [7:24:06 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:24:06.347Z - info: [7:24:06 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:24:06.615Z - info: [7:24:06 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:24:07.132Z - info: Rebuilding affected source files
+2020-02-26T11:24:07.132Z - info: Rebuilding 1 pages
+2020-02-26T11:24:07.198Z - info: Pages rebuilt
+2020-02-26T11:24:07.201Z - info: Site data built
+2020-02-26T11:24:07.756Z - info: [7:24:07 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:24:07.966Z - info: [7:24:07 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:24:08.757Z - info: Rebuilding affected source files
+2020-02-26T11:24:08.759Z - info: Rebuilding 1 pages
+2020-02-26T11:24:08.823Z - info: Pages rebuilt
+2020-02-26T11:24:08.828Z - info: Site data built
+2020-02-26T11:24:24.867Z - info: [7:24:24 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:24:25.069Z - info: [7:24:25 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:24:25.870Z - info: Rebuilding affected source files
+2020-02-26T11:24:25.871Z - info: Rebuilding 1 pages
+2020-02-26T11:24:25.937Z - info: Pages rebuilt
+2020-02-26T11:24:25.941Z - info: Site data built
+2020-02-26T11:24:29.390Z - info: [7:24:29 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\markbind-overview.md
+2020-02-26T11:24:29.585Z - info: [7:24:29 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\markbind-overview.md
+2020-02-26T11:24:30.393Z - info: Rebuilding affected source files
+2020-02-26T11:24:30.394Z - info: Rebuilding 1 pages
+2020-02-26T11:24:30.513Z - info: [7:24:30 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\markbind-overview.md
+2020-02-26T11:24:30.547Z - info: Pages rebuilt
+2020-02-26T11:24:30.551Z - info: Site data built
+2020-02-26T11:24:30.706Z - info: [7:24:30 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\markbind-overview.md
+2020-02-26T11:24:31.522Z - info: Rebuilding affected source files
+2020-02-26T11:24:31.523Z - info: Rebuilding 1 pages
+2020-02-26T11:24:31.645Z - info: [7:24:31 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\markbind-overview.md
+2020-02-26T11:24:31.682Z - info: Pages rebuilt
+2020-02-26T11:24:31.687Z - info: Site data built
+2020-02-26T11:24:31.856Z - info: [7:24:31 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\contents\markbind-overview.md
+2020-02-26T11:24:32.649Z - info: Rebuilding affected source files
+2020-02-26T11:24:32.650Z - info: Rebuilding 1 pages
+2020-02-26T11:24:32.768Z - info: Pages rebuilt
+2020-02-26T11:24:32.773Z - info: Site data built
+2020-02-26T11:25:42.470Z - info: [7:25:42 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:25:42.638Z - info: [7:25:42 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:25:42.827Z - info: [7:25:42 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:25:43.473Z - info: Rebuilding affected source files
+2020-02-26T11:25:43.475Z - info: Rebuilding 1 pages
+2020-02-26T11:25:43.597Z - info: [7:25:43 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:25:43.605Z - info: Pages rebuilt
+2020-02-26T11:25:43.610Z - info: Site data built
+2020-02-26T11:25:43.805Z - info: [7:25:43 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:25:44.600Z - info: Rebuilding affected source files
+2020-02-26T11:25:44.601Z - info: Rebuilding 1 pages
+2020-02-26T11:25:44.723Z - info: Pages rebuilt
+2020-02-26T11:25:44.727Z - info: Site data built
+2020-02-26T11:26:59.041Z - info: [7:26:59 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:26:59.211Z - info: [7:26:59 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:27:00.044Z - info: Rebuilding affected source files
+2020-02-26T11:27:00.046Z - info: Rebuilding 1 pages
+2020-02-26T11:27:00.131Z - info: Pages rebuilt
+2020-02-26T11:27:00.135Z - info: Site data built
+2020-02-26T11:27:27.820Z - info: [7:27:27 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:27:28.031Z - info: [7:27:28 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:27:28.823Z - info: Rebuilding affected source files
+2020-02-26T11:27:28.824Z - info: Rebuilding 1 pages
+2020-02-26T11:27:28.889Z - info: Pages rebuilt
+2020-02-26T11:27:28.893Z - info: Site data built
+2020-02-26T11:27:32.222Z - info: [7:27:32 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:27:32.399Z - info: [7:27:32 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:27:33.224Z - info: Rebuilding affected source files
+2020-02-26T11:27:33.225Z - info: Rebuilding 1 pages
+2020-02-26T11:27:33.278Z - info: Pages rebuilt
+2020-02-26T11:27:33.282Z - info: Site data built
+2020-02-26T11:28:05.188Z - info: [7:28:05 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:28:05.433Z - info: [7:28:05 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:28:05.578Z - info: [7:28:05 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:28:06.188Z - info: Rebuilding affected source files
+2020-02-26T11:28:06.189Z - info: Rebuilding 1 pages
+2020-02-26T11:28:06.239Z - info: Pages rebuilt
+2020-02-26T11:28:06.243Z - info: Site data built
+2020-02-26T11:28:06.620Z - info: [7:28:06 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:28:06.818Z - info: [7:28:06 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:28:06.873Z - info: [7:28:06 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:28:07.623Z - info: Rebuilding affected source files
+2020-02-26T11:28:07.632Z - info: Rebuilding 1 pages
+2020-02-26T11:28:07.702Z - info: Pages rebuilt
+2020-02-26T11:28:07.709Z - info: Site data built
+2020-02-26T11:29:18.795Z - info: [7:29:18 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:29:19.057Z - info: [7:29:19 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:29:19.212Z - info: [7:29:19 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:29:19.800Z - info: Rebuilding affected source files
+2020-02-26T11:29:19.808Z - info: Rebuilding 6 pages
+2020-02-26T11:29:20.190Z - info: Pages rebuilt
+2020-02-26T11:29:20.214Z - info: Site data built
+2020-02-26T11:29:35.514Z - info: [7:29:35 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:29:35.946Z - info: [7:29:35 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:29:36.519Z - info: Rebuilding affected source files
+2020-02-26T11:29:36.527Z - info: Rebuilding 6 pages
+2020-02-26T11:29:36.891Z - info: Pages rebuilt
+2020-02-26T11:29:36.900Z - info: Site data built
+2020-02-26T11:29:42.436Z - info: [7:29:42 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:29:42.637Z - info: [7:29:42 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:29:42.825Z - info: [7:29:42 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:29:43.439Z - info: Rebuilding affected source files
+2020-02-26T11:29:43.449Z - info: Rebuilding 1 pages
+2020-02-26T11:29:43.523Z - info: Pages rebuilt
+2020-02-26T11:29:43.531Z - info: Site data built
+2020-02-26T11:30:06.758Z - info: [7:30:06 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:30:07.003Z - info: [7:30:07 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:30:07.766Z - info: Rebuilding affected source files
+2020-02-26T11:30:07.773Z - info: Rebuilding 1 pages
+2020-02-26T11:30:07.841Z - info: Pages rebuilt
+2020-02-26T11:30:07.849Z - info: Site data built
+2020-02-26T11:30:31.816Z - info: [7:30:31 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:30:32.050Z - info: [7:30:32 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:30:32.820Z - info: Rebuilding affected source files
+2020-02-26T11:30:32.828Z - info: Rebuilding 1 pages
+2020-02-26T11:30:32.876Z - info: Pages rebuilt
+2020-02-26T11:30:32.886Z - info: Site data built
+2020-02-26T11:30:47.327Z - info: [7:30:47 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:30:47.572Z - info: [7:30:47 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:30:48.331Z - info: Rebuilding affected source files
+2020-02-26T11:30:48.338Z - info: Rebuilding 1 pages
+2020-02-26T11:30:48.388Z - info: Pages rebuilt
+2020-02-26T11:30:48.395Z - info: Site data built
+2020-02-26T11:31:04.728Z - info: [7:31:04 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:31:04.984Z - info: [7:31:04 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:31:05.167Z - info: [7:31:05 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:31:05.732Z - info: Rebuilding affected source files
+2020-02-26T11:31:05.740Z - info: Rebuilding 1 pages
+2020-02-26T11:31:05.818Z - info: Pages rebuilt
+2020-02-26T11:31:05.822Z - info: Site data built
+2020-02-26T11:31:11.242Z - info: [7:31:11 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:31:11.418Z - info: [7:31:11 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:31:12.246Z - info: Rebuilding affected source files
+2020-02-26T11:31:12.253Z - info: Rebuilding 1 pages
+2020-02-26T11:31:12.304Z - info: Pages rebuilt
+2020-02-26T11:31:12.312Z - info: Site data built
+2020-02-26T11:31:19.992Z - info: [7:31:19 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:31:20.217Z - info: [7:31:20 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:31:20.995Z - info: Rebuilding affected source files
+2020-02-26T11:31:21.003Z - info: Rebuilding 1 pages
+2020-02-26T11:31:21.052Z - info: Pages rebuilt
+2020-02-26T11:31:21.060Z - info: Site data built
+2020-02-26T11:31:27.419Z - info: [7:31:27 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:31:27.575Z - info: [7:31:27 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:31:27.697Z - info: [7:31:27 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:31:28.423Z - info: Rebuilding affected source files
+2020-02-26T11:31:28.431Z - info: Rebuilding 1 pages
+2020-02-26T11:31:28.483Z - info: Pages rebuilt
+2020-02-26T11:31:28.491Z - info: Site data built
+2020-02-26T11:31:32.950Z - info: [7:31:32 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:31:33.129Z - info: [7:31:33 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:31:33.953Z - info: Rebuilding affected source files
+2020-02-26T11:31:33.961Z - info: Rebuilding 1 pages
+2020-02-26T11:31:34.012Z - info: Pages rebuilt
+2020-02-26T11:31:34.020Z - info: Site data built
+2020-02-26T11:31:37.920Z - info: [7:31:37 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:31:38.216Z - info: [7:31:38 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:31:38.297Z - info: [7:31:38 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:31:38.923Z - info: Rebuilding affected source files
+2020-02-26T11:31:38.931Z - info: Rebuilding 1 pages
+2020-02-26T11:31:38.985Z - info: Pages rebuilt
+2020-02-26T11:31:38.993Z - info: Site data built
+2020-02-26T11:31:46.653Z - info: [7:31:46 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:31:46.866Z - info: [7:31:46 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:31:47.656Z - info: Rebuilding affected source files
+2020-02-26T11:31:47.667Z - info: Rebuilding 1 pages
+2020-02-26T11:31:47.719Z - info: Pages rebuilt
+2020-02-26T11:31:47.728Z - info: Site data built
+2020-02-26T11:31:59.186Z - info: [7:31:59 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:31:59.366Z - info: [7:31:59 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:32:00.189Z - info: Rebuilding affected source files
+2020-02-26T11:32:00.197Z - info: Rebuilding 1 pages
+2020-02-26T11:32:00.250Z - info: Pages rebuilt
+2020-02-26T11:32:00.258Z - info: Site data built
+2020-02-26T11:32:05.615Z - info: [7:32:05 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:32:05.774Z - info: [7:32:05 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:32:06.619Z - info: Rebuilding affected source files
+2020-02-26T11:32:06.626Z - info: Rebuilding 1 pages
+2020-02-26T11:32:06.678Z - info: Pages rebuilt
+2020-02-26T11:32:06.686Z - info: Site data built
+2020-02-26T11:32:14.464Z - info: [7:32:14 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:32:14.662Z - info: [7:32:14 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:32:15.467Z - info: Rebuilding affected source files
+2020-02-26T11:32:15.474Z - info: Rebuilding 1 pages
+2020-02-26T11:32:15.528Z - info: Pages rebuilt
+2020-02-26T11:32:15.536Z - info: Site data built
+2020-02-26T11:32:19.899Z - info: [7:32:19 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:32:20.055Z - info: [7:32:20 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:32:20.215Z - info: [7:32:20 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:32:20.904Z - info: Rebuilding affected source files
+2020-02-26T11:32:20.912Z - info: Rebuilding 1 pages
+2020-02-26T11:32:20.964Z - info: Pages rebuilt
+2020-02-26T11:32:20.971Z - info: Site data built
+2020-02-26T11:32:31.382Z - info: [7:32:31 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:32:31.598Z - info: [7:32:31 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:32:31.787Z - info: [7:32:31 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:32:32.384Z - info: Rebuilding affected source files
+2020-02-26T11:32:32.392Z - info: Rebuilding 1 pages
+2020-02-26T11:32:32.451Z - info: Pages rebuilt
+2020-02-26T11:32:32.458Z - info: Site data built
+2020-02-26T11:32:45.990Z - info: [7:32:45 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:32:46.155Z - info: [7:32:46 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:32:46.995Z - info: Rebuilding affected source files
+2020-02-26T11:32:47.003Z - info: Rebuilding 1 pages
+2020-02-26T11:32:47.109Z - info: Pages rebuilt
+2020-02-26T11:32:47.118Z - info: Site data built
+2020-02-26T11:34:26.778Z - info: [7:34:26 PM] Reload for file add: C:\Users\neilb\Projects\a-markbind-site\images\projects\openended.PNG
+2020-02-26T11:34:26.786Z - info: [7:34:26 PM] Reload for file add: C:\Users\neilb\Projects\a-markbind-site\images\projects\mcqen.PNG
+2020-02-26T11:34:26.796Z - info: [7:34:26 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\images\projects\mcqen.PNG
+2020-02-26T11:34:26.803Z - info: [7:34:26 PM] Reload for file add: C:\Users\neilb\Projects\a-markbind-site\images\projects\mcqjp.PNG
+2020-02-26T11:34:27.798Z - info: Assets built
+2020-02-26T11:34:36.467Z - info: [7:34:36 PM] Reload for file add: C:\Users\neilb\Projects\a-markbind-site\images\projects\oboeru\mcqen.PNG
+2020-02-26T11:34:36.478Z - info: [7:34:36 PM] Reload for file add: C:\Users\neilb\Projects\a-markbind-site\images\projects\oboeru\mcqjp.PNG
+2020-02-26T11:34:36.481Z - info: [7:34:36 PM] Reload for file add: C:\Users\neilb\Projects\a-markbind-site\images\projects\oboeru\openended.PNG
+2020-02-26T11:34:36.565Z - info: [7:34:36 PM] Reload for file deletion: C:\Users\neilb\Projects\a-markbind-site\images\projects\mcqen.PNG
+2020-02-26T11:34:36.566Z - info: [7:34:36 PM] Reload for file deletion: C:\Users\neilb\Projects\a-markbind-site\images\projects\mcqjp.PNG
+2020-02-26T11:34:36.573Z - info: [7:34:36 PM] Reload for file deletion: C:\Users\neilb\Projects\a-markbind-site\images\projects\openended.PNG
+2020-02-26T11:34:37.484Z - info: Assets built
+2020-02-26T11:34:37.579Z - info: Assets removed
+2020-02-26T11:34:39.975Z - info: [7:34:39 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:34:40.213Z - info: [7:34:40 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\projects\oboeru.md
+2020-02-26T11:34:40.980Z - info: Rebuilding affected source files
+2020-02-26T11:34:40.981Z - info: Rebuilding 1 pages
+2020-02-26T11:34:41.050Z - info: Pages rebuilt
+2020-02-26T11:34:41.060Z - info: Site data built
+2020-02-26T11:34:59.396Z - info: [7:34:59 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:34:59.614Z - info: [7:34:59 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:35:00.401Z - info: Rebuilding affected source files
+2020-02-26T11:35:00.409Z - info: Rebuilding 6 pages
+2020-02-26T11:35:00.717Z - info: Pages rebuilt
+2020-02-26T11:35:00.725Z - info: Site data built
+2020-02-26T11:35:05.605Z - info: [7:35:05 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\navigation\site-nav.md
+2020-02-26T11:35:05.770Z - info: [7:35:05 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\navigation\site-nav.md
+2020-02-26T11:35:06.609Z - info: Rebuilding affected source files
+2020-02-26T11:35:06.617Z - info: Rebuilding 6 pages
+2020-02-26T11:35:06.870Z - info: Pages rebuilt
+2020-02-26T11:35:06.888Z - info: Site data built
+2020-02-26T11:35:47.561Z - info: [7:35:47 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\navigation\site-nav.md
+2020-02-26T11:35:47.705Z - info: [7:35:47 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\navigation\site-nav.md
+2020-02-26T11:35:48.565Z - info: Rebuilding affected source files
+2020-02-26T11:35:48.572Z - info: Rebuilding 6 pages
+2020-02-26T11:35:49.010Z - info: [7:35:48 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\navigation\site-nav.md
+2020-02-26T11:35:49.873Z - info: Pages rebuilt
+2020-02-26T11:35:50.071Z - info: Site data built
+2020-02-26T11:35:50.101Z - info: Rebuilding affected source files
+2020-02-26T11:35:50.116Z - info: Rebuilding 6 pages
+2020-02-26T11:35:52.208Z - info: Pages rebuilt
+2020-02-26T11:35:52.277Z - info: Site data built
+2020-02-26T11:36:05.849Z - info: [7:36:05 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\navigation\site-nav.md
+2020-02-26T11:36:06.061Z - info: [7:36:06 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\navigation\site-nav.md
+2020-02-26T11:36:06.860Z - info: Rebuilding affected source files
+2020-02-26T11:36:06.865Z - info: Rebuilding 6 pages
+2020-02-26T11:36:07.122Z - info: Pages rebuilt
+2020-02-26T11:36:07.130Z - info: Site data built
+2020-02-26T11:36:07.962Z - info: [7:36:07 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\navigation\site-nav.md
+2020-02-26T11:36:08.433Z - info: [7:36:08 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\navigation\site-nav.md
+2020-02-26T11:36:08.967Z - info: Rebuilding affected source files
+2020-02-26T11:36:08.975Z - info: Rebuilding 6 pages
+2020-02-26T11:36:09.389Z - info: Pages rebuilt
+2020-02-26T11:36:09.398Z - info: Site data built
+2020-02-26T11:36:09.794Z - info: [7:36:09 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\navigation\site-nav.md
+2020-02-26T11:36:10.041Z - info: [7:36:10 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\navigation\site-nav.md
+2020-02-26T11:36:10.796Z - info: Rebuilding affected source files
+2020-02-26T11:36:10.803Z - info: Rebuilding 6 pages
+2020-02-26T11:36:11.200Z - info: Pages rebuilt
+2020-02-26T11:36:11.214Z - info: Site data built
+2020-02-26T11:36:29.349Z - info: [7:36:29 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\navigation\site-nav.md
+2020-02-26T11:36:29.584Z - info: [7:36:29 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\navigation\site-nav.md
+2020-02-26T11:36:30.359Z - info: Rebuilding affected source files
+2020-02-26T11:36:30.362Z - info: Rebuilding 6 pages
+2020-02-26T11:36:30.727Z - info: Pages rebuilt
+2020-02-26T11:36:30.735Z - info: Site data built
+2020-02-26T11:37:07.373Z - info: [7:37:07 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\navigation\site-nav.md
+2020-02-26T11:37:07.592Z - info: [7:37:07 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\navigation\site-nav.md
+2020-02-26T11:37:08.376Z - info: Rebuilding affected source files
+2020-02-26T11:37:08.383Z - info: Rebuilding 6 pages
+2020-02-26T11:37:08.691Z - info: Pages rebuilt
+2020-02-26T11:37:08.698Z - info: Site data built
+2020-02-26T11:38:23.417Z - info: [7:38:23 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:38:23.649Z - info: [7:38:23 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:38:23.815Z - info: [7:38:23 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:38:24.423Z - info: Rebuilding affected source files
+2020-02-26T11:38:24.425Z - info: Rebuilding 6 pages
+2020-02-26T11:38:24.876Z - info: Pages rebuilt
+2020-02-26T11:38:24.896Z - info: Site data built
+2020-02-26T11:38:25.868Z - info: [7:38:25 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:38:26.072Z - info: [7:38:26 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:38:26.290Z - info: [7:38:26 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:38:26.873Z - info: Rebuilding affected source files
+2020-02-26T11:38:26.880Z - info: Rebuilding 6 pages
+2020-02-26T11:38:27.286Z - info: Pages rebuilt
+2020-02-26T11:38:27.293Z - info: Site data built
+2020-02-26T11:38:33.606Z - info: [7:38:33 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:38:33.840Z - info: [7:38:33 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:38:34.044Z - info: [7:38:34 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:38:34.626Z - info: Rebuilding affected source files
+2020-02-26T11:38:34.635Z - info: Rebuilding 6 pages
+2020-02-26T11:38:35.075Z - info: Pages rebuilt
+2020-02-26T11:38:35.080Z - info: Site data built
+2020-02-26T11:39:05.752Z - info: [7:39:05 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:39:05.944Z - info: [7:39:05 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:39:06.211Z - info: [7:39:06 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:39:06.759Z - info: Rebuilding affected source files
+2020-02-26T11:39:06.766Z - info: Rebuilding 6 pages
+2020-02-26T11:39:07.256Z - info: Pages rebuilt
+2020-02-26T11:39:07.264Z - info: Site data built
+2020-02-26T11:39:19.311Z - info: [7:39:19 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:39:19.526Z - info: [7:39:19 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:39:19.675Z - info: [7:39:19 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:39:20.322Z - info: Rebuilding affected source files
+2020-02-26T11:39:20.324Z - info: Rebuilding 6 pages
+2020-02-26T11:39:20.602Z - info: Pages rebuilt
+2020-02-26T11:39:20.610Z - info: Site data built
+2020-02-26T11:39:23.037Z - info: [7:39:23 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:39:23.244Z - info: [7:39:23 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:39:24.042Z - info: Rebuilding affected source files
+2020-02-26T11:39:24.050Z - info: Rebuilding 6 pages
+2020-02-26T11:39:24.334Z - info: Pages rebuilt
+2020-02-26T11:39:24.354Z - info: Site data built
+2020-02-26T11:39:51.105Z - info: [7:39:51 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:39:51.351Z - info: [7:39:51 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:39:52.110Z - info: Rebuilding affected source files
+2020-02-26T11:39:52.117Z - info: Rebuilding 6 pages
+2020-02-26T11:39:52.432Z - info: Pages rebuilt
+2020-02-26T11:39:52.441Z - info: Site data built
+2020-02-26T11:40:03.000Z - info: [7:40:02 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:40:03.207Z - info: [7:40:03 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:40:04.005Z - info: Rebuilding affected source files
+2020-02-26T11:40:04.012Z - info: Rebuilding 6 pages
+2020-02-26T11:40:04.372Z - info: Pages rebuilt
+2020-02-26T11:40:04.376Z - info: Site data built
+2020-02-26T11:40:14.557Z - info: [7:40:14 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:40:14.781Z - info: [7:40:14 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:40:15.561Z - info: Rebuilding affected source files
+2020-02-26T11:40:15.571Z - info: Rebuilding 6 pages
+2020-02-26T11:40:16.074Z - info: Pages rebuilt
+2020-02-26T11:40:16.084Z - info: Site data built
+2020-02-26T11:41:03.402Z - info: [7:41:03 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:41:03.625Z - info: [7:41:03 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:41:04.408Z - info: Rebuilding affected source files
+2020-02-26T11:41:04.414Z - info: Rebuilding 6 pages
+2020-02-26T11:41:04.933Z - info: Pages rebuilt
+2020-02-26T11:41:04.956Z - info: Site data built
+2020-02-26T11:41:24.231Z - info: [7:41:24 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:41:24.459Z - info: [7:41:24 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:41:24.621Z - info: [7:41:24 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:41:25.237Z - info: Rebuilding affected source files
+2020-02-26T11:41:25.239Z - info: Rebuilding 6 pages
+2020-02-26T11:41:25.532Z - info: Pages rebuilt
+2020-02-26T11:41:25.540Z - info: Site data built
+2020-02-26T11:41:25.810Z - info: [7:41:25 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:41:25.976Z - info: [7:41:25 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:41:26.816Z - info: Rebuilding affected source files
+2020-02-26T11:41:26.831Z - info: Rebuilding 6 pages
+2020-02-26T11:41:27.472Z - info: Pages rebuilt
+2020-02-26T11:41:27.491Z - info: Site data built
+2020-02-26T11:41:38.891Z - info: [7:41:38 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:41:39.088Z - info: [7:41:39 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:41:39.894Z - info: Rebuilding affected source files
+2020-02-26T11:41:39.903Z - info: Rebuilding 6 pages
+2020-02-26T11:41:40.156Z - info: Pages rebuilt
+2020-02-26T11:41:40.164Z - info: Site data built
+2020-02-26T11:41:51.276Z - info: [7:41:51 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:41:51.454Z - info: [7:41:51 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:41:52.280Z - info: Rebuilding affected source files
+2020-02-26T11:41:52.288Z - info: Rebuilding 6 pages
+2020-02-26T11:41:52.602Z - info: Pages rebuilt
+2020-02-26T11:41:52.612Z - info: Site data built
+2020-02-26T11:41:58.586Z - info: [7:41:58 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:41:58.770Z - info: [7:41:58 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:41:59.591Z - info: Rebuilding affected source files
+2020-02-26T11:41:59.598Z - info: Rebuilding 6 pages
+2020-02-26T11:41:59.842Z - info: Pages rebuilt
+2020-02-26T11:41:59.850Z - info: Site data built
+2020-02-26T11:42:03.338Z - info: [7:42:03 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:42:03.537Z - info: [7:42:03 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:42:04.342Z - info: Rebuilding affected source files
+2020-02-26T11:42:04.350Z - info: Rebuilding 6 pages
+2020-02-26T11:42:04.666Z - info: Pages rebuilt
+2020-02-26T11:42:04.675Z - info: Site data built
+2020-02-26T11:42:09.231Z - info: [7:42:09 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:42:09.486Z - info: [7:42:09 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:42:09.608Z - info: [7:42:09 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:42:10.235Z - info: Rebuilding affected source files
+2020-02-26T11:42:10.243Z - info: Rebuilding 6 pages
+2020-02-26T11:42:10.565Z - info: Pages rebuilt
+2020-02-26T11:42:10.572Z - info: Site data built
+2020-02-26T11:42:11.468Z - info: [7:42:11 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:42:11.649Z - info: [7:42:11 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:42:12.472Z - info: Rebuilding affected source files
+2020-02-26T11:42:12.481Z - info: Rebuilding 6 pages
+2020-02-26T11:42:12.733Z - info: Pages rebuilt
+2020-02-26T11:42:12.740Z - info: Site data built
+2020-02-26T11:42:20.904Z - info: [7:42:20 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:42:21.098Z - info: [7:42:21 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:42:21.790Z - info: [7:42:21 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:42:21.907Z - info: Rebuilding affected source files
+2020-02-26T11:42:21.915Z - info: Rebuilding 6 pages
+2020-02-26T11:42:21.985Z - info: [7:42:21 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:42:22.239Z - info: Pages rebuilt
+2020-02-26T11:42:22.244Z - info: Site data built
+2020-02-26T11:42:22.989Z - info: Rebuilding affected source files
+2020-02-26T11:42:22.998Z - info: Rebuilding 6 pages
+2020-02-26T11:42:23.321Z - info: Pages rebuilt
+2020-02-26T11:42:23.330Z - info: Site data built
+2020-02-26T11:42:26.305Z - info: [7:42:26 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:42:26.524Z - info: [7:42:26 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:42:26.666Z - info: [7:42:26 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:42:27.310Z - info: Rebuilding affected source files
+2020-02-26T11:42:27.318Z - info: Rebuilding 6 pages
+2020-02-26T11:42:27.576Z - info: Pages rebuilt
+2020-02-26T11:42:27.583Z - info: Site data built
+2020-02-26T11:42:53.829Z - info: [7:42:53 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:42:54.052Z - info: [7:42:54 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:42:54.832Z - info: Rebuilding affected source files
+2020-02-26T11:42:54.840Z - info: Rebuilding 6 pages
+2020-02-26T11:42:55.305Z - info: Pages rebuilt
+2020-02-26T11:42:55.324Z - info: Site data built
+2020-02-26T11:44:52.913Z - info: [7:44:52 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:44:53.148Z - info: [7:44:53 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:44:53.933Z - info: Rebuilding affected source files
+2020-02-26T11:44:53.944Z - info: Rebuilding 1 pages
+2020-02-26T11:44:54.071Z - info: Pages rebuilt
+2020-02-26T11:44:54.078Z - info: Site data built
+2020-02-26T11:45:09.227Z - info: [7:45:09 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:45:09.445Z - info: [7:45:09 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:45:09.616Z - info: [7:45:09 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\index.md
+2020-02-26T11:45:10.231Z - info: Rebuilding affected source files
+2020-02-26T11:45:10.239Z - info: Rebuilding 1 pages
+2020-02-26T11:45:10.310Z - info: Pages rebuilt
+2020-02-26T11:45:10.318Z - info: Site data built
+2020-02-26T11:45:20.974Z - info: Website generation started at 7:45:20 PM
+2020-02-26T11:45:21.069Z - info: Building assets...
+2020-02-26T11:45:21.153Z - info: Assets built
+2020-02-26T11:45:21.163Z - info: Generating pages...
+2020-02-26T11:45:21.891Z - info: Pages built
+2020-02-26T11:45:22.030Z - info: Website generation complete! Total build time: 1.096s
+2020-02-26T11:45:22.105Z - info: Serving "C:\Users\neilb\Projects\a-markbind-site\_site" at http://127.0.0.1:8080
+2020-02-26T11:45:22.112Z - info: Press CTRL+C to stop ...
+2020-02-26T11:45:22.140Z - info: Site data built
+2020-02-26T11:45:55.659Z - info: [7:45:55 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\site.json
+2020-02-26T11:45:55.847Z - info: [7:45:55 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\site.json
+2020-02-26T11:45:55.980Z - info: [7:45:55 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\site.json
+2020-02-26T11:45:56.665Z - info: Assets built
+2020-02-26T11:46:02.633Z - info: [7:46:02 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\site.json
+2020-02-26T11:46:02.715Z - info: [7:46:02 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\site.json
+2020-02-26T11:46:02.826Z - info: [7:46:02 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\site.json
+2020-02-26T11:46:03.892Z - info: Assets built
+2020-02-26T11:46:07.006Z - error: Failed to read the site config file 'site.json' atC:\Users\neilb\Projects\a-markbind-site:
+C:\Users\neilb\Projects\a-markbind-site\site.json: Unexpected token } in JSON at position 288
+Please ensure the file exist or is valid
+2020-02-26T11:46:36.131Z - info: Website generation started at 7:46:36 PM
+2020-02-26T11:46:36.223Z - info: Building assets...
+2020-02-26T11:46:36.293Z - info: Assets built
+2020-02-26T11:46:36.296Z - info: Generating pages...
+2020-02-26T11:46:36.884Z - info: Pages built
+2020-02-26T11:46:37.005Z - info: Website generation complete! Total build time: 0.911s
+2020-02-26T11:46:37.069Z - info: Serving "C:\Users\neilb\Projects\a-markbind-site\_site" at http://127.0.0.1:8080
+2020-02-26T11:46:37.069Z - info: Press CTRL+C to stop ...
+2020-02-26T11:46:37.088Z - info: Site data built
+2020-02-26T11:47:58.211Z - info: [7:47:58 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:47:58.429Z - info: [7:47:58 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:47:59.217Z - info: Rebuilding affected source files
+2020-02-26T11:47:59.219Z - info: Rebuilding 6 pages
+2020-02-26T11:47:59.718Z - info: Pages rebuilt
+2020-02-26T11:47:59.722Z - info: Site data built
+2020-02-26T11:48:07.495Z - info: [7:48:07 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:48:07.719Z - info: [7:48:07 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:48:07.880Z - info: [7:48:07 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\headers\header.md
+2020-02-26T11:48:08.496Z - info: Rebuilding affected source files
+2020-02-26T11:48:08.499Z - info: Rebuilding 6 pages
+2020-02-26T11:48:08.950Z - info: Pages rebuilt
+2020-02-26T11:48:08.955Z - info: Site data built
