@@ -51,3 +51,12 @@
 2020-02-26T10:23:47.414Z - info: Assets built
 2020-02-26T10:23:56.749Z - info: Website generation started at 6:23:56 PM
 2020-02-26T10:23:56.821Z - info: Building assets...
+2020-02-26T10:23:56.871Z - info: Assets built
+2020-02-26T10:23:56.878Z - info: Generating pages...
+2020-02-26T10:23:57.484Z - info: Pages built
+2020-02-26T10:23:57.610Z - info: Website generation complete! Total build time: 0.895s
+2020-02-26T10:23:57.695Z - info: Serving "C:\Users\neilb\Projects\a-markbind-site\_site" at http://127.0.0.1:8080
+2020-02-26T10:23:57.702Z - info: Press CTRL+C to stop ...
+2020-02-26T10:23:57.724Z - info: Site data built
+2020-02-26T10:31:18.398Z - info: [6:29:49 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\navigation\site-nav.md
+2020-02-26T10:31:18.406Z - info: [6:31:18 PM] Reload for file change: C:\Users\neilb\Projects\a-markbind-site\_markbind\navigation\site-nav.md
