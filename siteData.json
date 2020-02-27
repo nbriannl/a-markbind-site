@@ -66,6 +66,36 @@
       "headingKeywords": {}
     },
     {
+      "header": "header-minoni.md",
+      "siteNav": "site-nav-minoni.md",
+      "src": "minoni.md",
+      "title": "",
+      "layout": "default",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "header": "header-minoni.md",
+      "siteNav": "site-nav-minoni.md",
+      "src": "minoni/miller.md",
+      "title": "",
+      "layout": "default",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "header": "header-minoni.md",
+      "siteNav": "site-nav-minoni.md",
+      "src": "minoni/overview.md",
+      "title": "",
+      "layout": "default",
+      "headings": {
+        "overview": "Overview",
+        "kyoto-arc": "Kyoto Arc"
+      },
+      "headingKeywords": {}
+    },
+    {
       "header": "header.md",
       "siteNav": "site-nav.md",
       "src": "projects/oboeru.md",

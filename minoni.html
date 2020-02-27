@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="MarkBind 2.11.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+  <link rel="stylesheet" href="markbind/css/bootstrap.min.css">
+  <link rel="stylesheet" href="markbind/css/bootstrap-vue.min.css">
+  <link rel="stylesheet" href="markbind/fontawesome/css/all.min.css">
+  <link rel="stylesheet" href="markbind/glyphicons/css/bootstrap-glyphicons.min.css">
+  <link rel="stylesheet" href="markbind/css/octicons.css">
+  <link rel="stylesheet" href="markbind/css/github.min.css">
+  <link rel="stylesheet" href="markbind/css/markbind.css">
+  <link rel="stylesheet" href="markbind/layouts/default/styles.css">
+  <link rel="stylesheet" href="markbind/css/site-nav.css">
+</head>
+
+<body>
+  <div id="app">
+    <header>
+      <navbar type="dark" class="temp-navbar">
+        <a slot="brand" href="/a-markbind-site/minoni.html" title="Home" class="navbar-brand">Minna no Nihongo Fansite</a>
+
+        <div class="nav-link temp-dropdown-placeholder">Characters</div>
+        <dropdown class="nav-link temp-dropdown"><template slot="_header">Characters</template>
+          <li><a href="/a-markbind-site/minoni/miller.html" class="dropdown-item">Mike Miller</a></li>
+        </dropdown>
+        <li slot="right">
+          <form class="navbar-form">
+            <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right=""></searchbar>
+          </form>
+        </li>
+      </navbar>
+    </header>
+    <div id="flex-body">
+      <nav id="site-nav" class="navbar navbar-light bg-transparent">
+        <div class="border-right-grey nav-inner position-sticky slim-scroll">
+          <ul class="px-0 site-nav-list">
+            <li class="mt-2"><a href="/a-markbind-site/minoni.html" class="site-nav__a current">Home</a></li>
+            <li class="mt-2"><a href="/a-markbind-site/minoni/overview.html" class="site-nav__a">Overview</a></li>
+            <li class="mt-2"><button class="dropdown-btn dropdown-btn-open">Character 
+ <i class="dropdown-btn-icon rotate-icon">
+<span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></i></button>
+              <div class="dropdown-container dropdown-container-open">
+                <ul class="pl-3 site-nav-list">
+                  <li class="mt-2"><a href="/a-markbind-site/minoni/miller.html" class="site-nav__a">Mike Miller</a></li>
+                </ul>
+              </div>
+            </li>
+          </ul>
+
+        </div>
+      </nav>
+      <div id="content-wrapper">
+        <br>
+        <box>
+          <span class="fas fa-tools"></span><span> This is a placeholder page</span></box>
+      </div>
+    </div>
+  </div>
+</body>
+<script src="markbind/js/vue.min.js"></script>
+<script src="markbind/js/vue-strap.min.js"></script>
+<script src="markbind/js/bootstrap-utility.min.js"></script>
+<script src="markbind/js/polyfill.min.js"></script>
+<script src="markbind/js/bootstrap-vue.min.js"></script>
+<script>
+  const baseUrl = '/a-markbind-site'
+  const enableSearch = true
+</script>
+<script src="markbind/js/setup.js"></script>
+<script src="markbind/layouts/default/scripts.js"></script>
+
+</html>
