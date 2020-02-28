@@ -91,7 +91,9 @@
       "layout": "default",
       "headings": {
         "overview": "Overview",
-        "kyoto-arc": "Kyoto Arc"
+        "osaka-arc": "Osaka Arc",
+        "characters": "Characters",
+        "locations": "Locations"
       },
       "headingKeywords": {}
     },
