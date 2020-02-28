@@ -5,23 +5,29 @@
 
 <br>
 
+<box type="info" light>
+    Page under construction
+</box>
+
 # Overview
 
 A overview of the events in Minna no Nihongo
 
 <box type="warning" light>
-    For convenience, (and also laziness) characters will be addressed in their family name without -san.
+    For convenience and familiarity (and laziness) characters may be addressed by their family name without -san.
 </box>
 
 <box type="important" light>
-    Light spoilers ahead for 小説ミラーさん 1! A novelisation of Minna no Nihongo.
+    Spoilers ahead for 小説ミラーさん! A novelisation of Minna no Nihongo.
 </box>
 
-## Kyoto Arc
+## Osaka Arc
 
-* (L1) Mike Miller's first day in IMC (Kyoto). Yamada Ichiro introduces him to Satou Keiko, and Miller puts his hand out for a handshake instead of bowing. 
-* (Novel 1 Chapter 1) We learn more details about Miller's first day.
+* (L1) Mike Miller's first day in IMC (Osaka). Yamada Ichiro introduces him to Satou Keiko, and Miller puts his hand out for a handshake instead of bowing. 
+* (Novel 1 Chapter 1) A detailed chapter of Millers's first day at the office
+* (Novel 1 Chapter 2) Miller has trouble with keeping on time. Mr. Matsumoto appears early in the novel.
 * (L2) Hose Santos, a Brazil Air employee, goes to the door to Yamada's apartment, introduces himself, and gives Yamada some coffee as a gift.
+* (Novel 1 Chapter 3) Mike visit's the Yamada's home.
 * (L3) Maria Santos (Hose's wife, a housewife) goes to the wine section at the basement of the department store. Goes to buy a <popover effect="scale" content="SGD31.63" placement="top" trigger="hover">¥2500</popover> Japanese bottle.
 * (L4) Miller asks Satou for <popover effect="scale" content="A restaurant" placement="top" trigger="hover">Asuka's</popover> <popover effect="scale" content="5275-2725" placement="top" trigger="hover">phone number</popover>. Then calls Asuka and inquires about their opening days and time. 
 * (L5) Santos is trying to take a train to Koushien. Asks how much it costs, which platform, and learns that the next train is an express train that does not go to Koshien.
@@ -51,3 +57,46 @@ A overview of the events in Minna no Nihongo
 * (L23) Karina is now going to Midori Library (which I bet is at Midoricho), a white building located inside park, which is 3 stops from Honda Station when taking 3 stops. She asks for directions.
 * (L24) Wang is moving (I guess he got his new place!) on a Sunday morning. Miller, Yamada and Karina is helping him during his move. Yamada is offering his car, and Karina is bringing some lunch bentos.
 * (L25) Miller is relocated to IMC Tokyo, so they're having a farewell party. Everyone is there, Satou, Kimura, Yamada, Matusmoto (and his wife), etc, you know it. Kimura teases that Miller will get lonely in Tokyo, and tells Miller not to forget his time in Kyoto. Miller asks them to visit Tokyo when they're free, and Santos tells him to call him up for drinks whenever he drops by Kyoto. Satou tells Miller to do his best and take care. Miller wishes the best for everyone.
+
+## Characters
+
+#### Mike Miller
+
+* American
+* IMC Employee
+* Previously worked at IMC America, and then went to IMC Osaka to work there for a year.
+* Later relocated to IMC Tokyo.
+* Was interested in seeing the 和室 at Mr. Yamada's house, but most of his time was taken up by Mrs. Yamada's conversation about movies. 
+
+#### Hose Santos
+* Lives beside Yamada
+* Gave Yamada a bag of coffee as a gift for being a new neighbour. 
+
+#### Yamada Ichiro
+* Japanese
+* IMC Employee
+* Ichiro went IMC America for a work trip, where he first met Mike
+* Plays golf and does fishing. The 和室 in his house is messy with his hobby tools, to his wife's dissaproval.
+* His cool spoon that was a Mexico souvenior was a gift by Mr Matsumoto
+* Friends with Wang and Karina
+* Submissive to Tomoko
+
+#### Yamada Tomoko
+* Loves American films
+* Especially films with her favourite actor Marlon Brando, like Godfather and Apocalypse Now
+
+#### Karina
+* Indonesian
+* Student at Fuji Univeristy
+* Studying Art
+
+## Locations
+
+#### IMC Osaka Building
+
+* 10 mins walk from the station
+
+#### Yamada's Residence
+
+* A doll in their house was gifted by Wang
+* A painting in their house was painted by Karina
